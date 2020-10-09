@@ -1,5 +1,5 @@
 # Shot Counter
-Inspired by [https://github.com/marc-schieferdecker/arduino-shot-counter]. 
+Inspired by https://github.com/marc-schieferdecker/arduino-shot-counter.
 
 ## Overview
 
